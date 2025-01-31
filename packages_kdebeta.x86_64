@@ -1,12 +1,38 @@
+dnscrypt-proxy
+macchanger
+kpmcore
+flatpak
+tor
+# gnome-terminal
+wireguard-tools
+#gnome
+#gnome-tweaks
+mousetweaks
+libpwquality
+net-tools
+# firefox-ublock-origin 
+# backintime
+timeshift
+archinstall
+#stabilitymatrix
+#krita
+yaml-cpp
+zenity
+ghostty
+papirus-icon-theme-git
+# gnoppix-plymouth-theme
+# calamares
+neofetch
+kinfocenter
+gnoppix-keyring
+firefox
 alacritty
 alsa-utils
 amd-ucode
-archinstall
 arch-install-scripts
 archlinux-keyring
 avahi
 b43-fwcutter
-# backintime
 base
 bash-completion
 bcachefs-tools
@@ -14,7 +40,9 @@ bind
 breeze-gtk
 brltty
 btrfs-progs
-# calamares
+gnoppix-hooks
+# gnoppix-kde-settings
+# gnoppix-settings
 ckbcomp
 clonezilla
 cloud-init
@@ -26,7 +54,6 @@ dhcpcd
 diffutils
 dmidecode
 dmraid
-dnscrypt-proxy
 dnsmasq
 dolphin
 dosfstools
@@ -38,18 +65,6 @@ exfatprogs
 f2fs-tools
 fakeroot
 fatresize
-firefox
-# firefox-ublock-origin 
-flatpak
-ghostty
-#gnome
-# gnome-terminal
-#gnome-tweaks
-gnoppix-hooks
-# gnoppix-kde-settings
-gnoppix-keyring
-# gnoppix-plymouth-theme
-# gnoppix-settings
 gpart
 gparted
 gptfdisk
@@ -68,28 +83,23 @@ iwd
 jfsutils
 kate
 kde-gtk-config
-kinfocenter
 konsole
-kpmcore
-#krita
 kscreen
 ldns
 less
 lftp
 libfido2
-libpwquality
 libusb-compat
 libwnck3
 linux
+linux-headers
 linux-firmware
 linux-firmware-marvell
-linux-headers
 lsb-release
-lsof
 lsscsi
+lsof
 lvm2
 lynx
-macchanger
 mc
 mdadm
 memtest86+
@@ -101,14 +111,11 @@ mkinitcpio-archiso
 mkinitcpio-nfs-utils
 mobile-broadband-provider-info
 modemmanager
-mousetweaks
 mtools
 nano
 nano-syntax-highlighting
 nbd
 ndisc6
-neofetch
-net-tools
 net-tools
 networkmanager
 nfs-utils
@@ -127,7 +134,6 @@ openssh
 open-vm-tools
 openvpn
 os-prober
-papirus-icon-theme-git
 partclone
 parted
 partimage
@@ -164,14 +170,11 @@ sof-firmware
 spectacle
 spice-vdagent
 squashfs-tools
-#stabilitymatrix
 sudo
 syslinux
 systemd-resolvconf
 tcpdump
 testdisk
-timeshift
-tor
 tpm2-tss
 traceroute
 ttf-bitstream-vera
@@ -186,7 +189,6 @@ vim
 virtualbox-guest-utils
 vpnc
 wget
-wireguard-tools
 wireless-regdb
 wireless_tools
 wireplumber
@@ -212,5 +214,3 @@ xorg-xkill
 xorg-xrandr
 xorg-xrdb
 yad
-yaml-cpp
-zenity
